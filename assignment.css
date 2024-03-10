@@ -1,0 +1,116 @@
+.head{background-image: url("https://wallpapers.com/images/hd/plain-dark-wall-szprhkh4fpr6v9xv.webp");
+    background-repeat: repeat;
+    filter:sepia(60%);
+color: #eeeeee;
+font-weight: bold;
+font-size: xx-large;
+padding-top: 30px;
+}
+a{text-decoration: none;
+    font-size: medium;
+    color: #eeeeee;
+}
+p.heading{font-size: 50px;
+    font-weight: bolder;
+    color: #eeeeee;
+    padding-top: 50px;
+}
+body{background-color:black; }
+a:hover{color: brown;}
+header{padding: 60px;}
+.left{float: right;
+border: #eeeeee 1px solid;
+border-radius: 30px;
+width: 50px;
+padding-right: 30px;
+margin-right: 30px;}
+a.left{font-size: medium;
+float: right;
+width: 80px;
+padding: 5px;
+text-align: center;}
+a.left1{float: right;
+border: #eeeeee 1px solid;
+border-radius: 40px;
+width: 130px;
+padding: 5px;
+margin-right: 30px;}
+.contact{color: #eeeeee;
+font-weight: bolder;
+font-size: 30px;
+    width: 300px;
+padding-left: 20px;}
+div.email{background-color: #100e0e;
+    float: right;
+padding: 10px;
+border: #1a1a1a 1px solid;
+border-radius: 30px;
+width: 300px;
+margin-right:  40px;
+max-width: 100%;}
+div.email:hover{background-color: #1a1a1a;}
+div.overall{
+    padding: 35px;
+background-color: black;
+    justify-content: space-between;
+max-width: 100%;}
+h2 {
+    color: #eeeeee;
+    font-size: xx-large;
+    margin-left: 90px;
+}
+
+.headings{color: #eeeeee;
+font-weight: bolder;
+font-size: xxx-large;}
+.kelvin{float:left;
+padding: 10px;
+-webkit-filter: grayscale(100%) ;
+border-radius: 30px;
+width: 500px;
+margin-right:  55px}
+.nice{background-color: black;
+    max-width: 100%;
+    outline-color: gold;
+}
+.now{border: #666666 1px solid;
+    margin-left: 60px;
+    height: 370px;
+    border-radius: 20px;
+width: 500px;
+padding: 30px;
+}
+textarea{width:500px;}
+.style{background-color: #1E1919;
+color: whitesmoke;
+    border: #1a1a1a 1px solid;
+    border-radius: 30px;
+    text-align: center;
+}
+::placeholder{color: white;
+font-weight: bold;
+font-size: large;
+padding: 20px;}
+.zoom{background-color: #1E1919 ;
+color: whitesmoke;
+    border: #1a1a1a 1px solid;
+    border-radius: 30px;
+padding: 10px;
+width: 200px;}
+input.button{
+color: #2323a2;
+    font-size: large;
+    font-weight: bold;
+padding: 10px;
+border: #1a1a1a 1px solid;
+border-radius: 10px;}
+div.footer{background-color: #1a1a1a;
+color: #eeeeee;
+font-weight: bolder;
+font-size: xx-large;
+padding: 30px;}
+input.button:hover{background-color: navy;
+color: gold;
+cursor: pointer;}
+p.spacing{word-spacing: 50px;
+color: gold;}
